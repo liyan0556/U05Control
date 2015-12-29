@@ -1,0 +1,9 @@
+C:\Users\Liyan\Documents\U05Control\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\Liyan\Documents\U05Control\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\Liyan\Documents\U05Control\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\Liyan\Documents\U05Control\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\Liyan\Documents\U05Control\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\Liyan\Documents\U05Control\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\Liyan\Documents\U05Control\obj\Debug\UnityVS.U05Control.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Liyan\Documents\U05Control\obj\Debug\Assembly-CSharp.dll
+C:\Users\Liyan\Documents\U05Control\obj\Debug\Assembly-CSharp.pdb

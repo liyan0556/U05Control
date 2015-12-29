@@ -1,0 +1,12 @@
+C:\Users\Liyan\Documents\U05Control\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Liyan\Documents\U05Control\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Liyan\Documents\U05Control\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Liyan\Documents\U05Control\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Liyan\Documents\U05Control\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Liyan\Documents\U05Control\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Liyan\Documents\U05Control\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Liyan\Documents\U05Control\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Liyan\Documents\U05Control\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Liyan\Documents\U05Control\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\Liyan\Documents\U05Control\obj\Debug\Assembly-CSharp.dll
+C:\Users\Liyan\Documents\U05Control\obj\Debug\Assembly-CSharp.pdb
